@@ -1,6 +1,7 @@
 public class app2 {
     void cat(){
-        System.out.println("pancake"+"milk"+"hippos");
+        float c = 7.6f;
+        System.out.println("pancake"+"milk"+"hippos"+c+"\n"+0x5f3759df);
     }
     
 }
